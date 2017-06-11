@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <link rel="stylesheet" href="main.css">
+  </head>
+  <body>
+    <p><span>But it was Cold in that water! It was cold!
+
+    I took the elevator
+    Sixteen floors above the ground.
+    I thought about my baby
+    And thought I would jump down.</span></p>
+    <a href="page3.html">next page </a>
+</body>
+</html>
